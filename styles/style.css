@@ -262,9 +262,10 @@ a,  a:hover {
 .offer h2+.ba-grid img{
 	min-height: 90px;
 }
-.ba-width-1-5 p.orange-title{
-	color: #ff5722;
+.offer .ba-width-1-2 .ba-width-1-5 p.orange-title{
+	margin-left: 0;
 	font-weight: 700;
+	color: #ff5722;
 }
 .offer h2+.ba-grid strong{
 	text-transform: uppercase;
